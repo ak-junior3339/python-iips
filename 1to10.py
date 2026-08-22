@@ -1,11 +1,7 @@
-def printN(n):
-	i = 0
-	if(n == 0):
-		return arr
-	else :
-		arr[i] = n
-		return printN(n-1)
-
-
-arr = printN(10)
-print(arr[::-1])
+def print_numbers(n):
+    if n > 10:
+        return
+    
+    print(n)
+    print_numbers(n + 1)
+print_numbers(1)
