@@ -1,0 +1,1 @@
+1- write a python script to identify  greatest of n user defined integers
