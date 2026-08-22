@@ -34,8 +34,25 @@ def greatest(a,b,c):
 
 
 
-print(greatest(4,7,1))
-print(greatest(7,3,6))
-print(greatest(1,5,9))
-print(greatest(5,5,7))
-print(greatest(5,5,1))
+# print(greatest(4,7,1))
+# print(greatest(7,3,6))
+# print(greatest(1,5,9))
+# print(greatest(5,5,7))
+# print(greatest(5,5,1))
+
+
+
+
+
+
+### LOGIC - 04 USING LOGICAL OPERATOR
+
+# def greatest(a,b,c):
+# 	if ((a >= b) and (a >= c)):
+# 		print(a," is greatest")
+# 	elif ((b>=a) and (b >= c)):
+# 		print(b ,"is greatest")
+# 	else :
+# 		print(c,"is greatest")
+
+# greatest(5,5,4)
