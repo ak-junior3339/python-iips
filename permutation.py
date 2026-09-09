@@ -7,6 +7,6 @@ def fact(n):
 
 n = int(input("Enter n : "))
 r = int(input("enter r : "))
-p = fact(n)/fact((n-r))
-
-print("Permutation (P) =", int(p))
+if(n > r and n > 0 and r > 0):
+	p = fact(n)/fact((n-r))
+	print("Permutation (P) =", int(p))
