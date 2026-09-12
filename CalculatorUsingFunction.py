@@ -16,7 +16,7 @@ def div(a,b):
 flag = True
 while(flag):
 	res = 0
-	pattern = r"\d+\."
+	# pattern = r"\d+\."
 	n1 = int(input("Enter First Number : "))
 	n2 = int(input("Enter Second Number : "))
 	op = input("Enter Operator ( enter 0 to exit ): ")
@@ -28,7 +28,11 @@ while(flag):
 		case '*' : 
 			res = mul(n1,n2)
 		case '/' : 
-			res = div(n1,n2)
+			if(n2!=0):
+				res = div(n1,n2)
+			else:
+				res = 0
+				print("Zero entered")
 		case '0' : 
 			flag = False
 
