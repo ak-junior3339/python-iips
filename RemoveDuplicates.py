@@ -1,3 +1,4 @@
+# python script to remove duplicates
 def contains_duplicate(nums):
     final_arr = []
     for i in nums:
