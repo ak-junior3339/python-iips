@@ -1,3 +1,4 @@
+# insert element at a index position
 arr = [1,2,3,4,5]
 pos = 2
 item = 69
