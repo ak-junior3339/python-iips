@@ -1,3 +1,4 @@
+# Decomal to Octal
 num = int(input("Enter the Number : "))
 bin = []
 while (num!=0) : 
