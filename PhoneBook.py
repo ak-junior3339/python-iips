@@ -1,4 +1,5 @@
 # python script to make a phone book where 
+# List of Dictionaries
 # CRUD
 contact = []
 def Create():
@@ -7,7 +8,7 @@ def Create():
 	address = input("Enter the address : ")
 	email = input("Enter the email address : ")
 	contact.append(dict({'Name' : name , 'Number' : number,'Address':address,'Email':email}))
-	print("✅")
+	print("Succesfull")
 def update():
 	n = input("Enter The Name to search : ")
 	for i in contact:
@@ -23,7 +24,7 @@ def update():
 			i['Address'] = address
 			email = input("Enter the email address : ")
 			i['Email'] = email
-			print("✅ Update Succesfull")
+			print(" Update Succesfull")
 			break
 		else:
 			continue
@@ -35,7 +36,7 @@ def delete():
 			print("Record Found")
 			print("Deleting.....")
 			contact.pop(i)
-			print('✅ Delete Succesfull')
+			print(' Delete Succesfull')
 			break
 		else:
 			continue
