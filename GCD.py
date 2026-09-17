@@ -1,3 +1,4 @@
+# python script to find GCD
 def gcd(a, b):
     result = 1
 
