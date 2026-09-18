@@ -1,4 +1,4 @@
-# python script to find GCD
+# python script to find GCD of 2 numbers
 def gcd(a, b):
     result = 1
 
