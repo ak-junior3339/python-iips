@@ -1,3 +1,4 @@
+#introduction to sets
 set_1 = {1,3,5,"12"}
 print(set_1)
 for i in set_1:
