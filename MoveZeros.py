@@ -1,3 +1,4 @@
+# pyhton script to move zeros
 def move_zeroes(nums): 
 	zero_idx = 0 
 	for i in range(len(nums)): 
