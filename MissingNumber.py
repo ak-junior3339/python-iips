@@ -1,3 +1,4 @@
+# python script to find missing number 
 def missing_number(arr):
 	n = len(arr)
 	total_sum = (n * (n+1))//2
