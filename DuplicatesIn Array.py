@@ -1,4 +1,4 @@
-# script to identify duplicate ekement
+# python script to identify duplicate ekement
 def removeDupli(lst):
 	arr = []
 	if (len(lst) != 0):
