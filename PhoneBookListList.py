@@ -1,4 +1,5 @@
-# Lists of List 
+# Lists of List  Method 
+
 contact = []
 def Create():
 	name = input("Enter Name : ")
