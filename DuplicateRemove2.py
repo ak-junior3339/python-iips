@@ -1,3 +1,4 @@
+# script to remove duplicates
 def removeDupli(lst):
 	arr = []
 	if (len(lst) != 0):
