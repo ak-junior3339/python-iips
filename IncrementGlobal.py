@@ -1,4 +1,4 @@
-# global incremental script
+# global incremental python script
 counter = 0 
 def incr_counter():
 	global counter
