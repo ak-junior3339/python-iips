@@ -1,4 +1,4 @@
-# python script to calculate factors and identify prime ones
+# python script to calculate factors and identify prime ones only
 factors = [] 
 prime_factors = []
 def isprime(n):
