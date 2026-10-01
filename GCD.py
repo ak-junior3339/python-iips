@@ -1,4 +1,4 @@
-#  qn > python script to find GCD of 2 numbers
+#  qn > python script to find GCD of 2 numberss
 def gcd(a, b):
     result = 1
 
