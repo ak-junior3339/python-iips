@@ -1,3 +1,4 @@
+# internal questions 
 data = [4,7,0,12,-3,9,15]
 i=0
 total = 0
