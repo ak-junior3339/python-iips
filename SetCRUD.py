@@ -1,6 +1,6 @@
 # python Set finctions
 # functions
-# Adding an Element:
+# Adding an Element in the set:
 set_1 = {1,3,6,"12"}
 set_1.add("Swapnil")
 print(set_1)
