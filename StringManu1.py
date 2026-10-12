@@ -1,3 +1,4 @@
+#strings
 var_1 = str(input())
 var_2= var_1.upper()
 var_3 = var_1.lower()
