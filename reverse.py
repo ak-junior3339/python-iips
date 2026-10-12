@@ -1,4 +1,4 @@
-# # to find reverse of integer
+# # to find reverse of integers
 string = input("Enter a string : ")
 n = len(string)-1
 temp = " "
