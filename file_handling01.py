@@ -1,0 +1,11 @@
+file = open("sample.txt","w")
+'''file.write("Aishwarya\t")
+file.write("7898753571\t")
+file.write("Defense Minister")
+file.close()'''
+name = input("Enter a String : ")
+age = int(input("Enter Age : "))
+email = input("Enter email :")
+entry = "{},{},{}\n".format(name,age,email)
+file.write(entry)
+file.close()
