@@ -1,4 +1,4 @@
-# decimal to binary
+# decimal to binary...
 num = int(input("Enter the Number : "))
 bin = []
 while (num!=0) : 
