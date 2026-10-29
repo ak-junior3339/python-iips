@@ -1,4 +1,4 @@
-# ..
+# ...
 from math import factorial,gcd
 n = int(input("Enter a Number : "))
 
