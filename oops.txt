@@ -1,0 +1,7 @@
+# UML- unified modeling language
+# OOPS in Python 
+# 1- class and object 
+# 2- data encapsulation and binding
+# 3- data abstraction 
+# 4- polymorphism 
+# 5- inheritence
