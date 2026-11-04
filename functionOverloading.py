@@ -1,4 +1,4 @@
-# Method 01
+# Method 01..
 def area(x,y=None) : 
 	if (y == None):
 		return x * 3.14 * x 
