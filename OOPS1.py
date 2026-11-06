@@ -1,4 +1,4 @@
-# .. 
+# .. .
 class Student : 
 	def __init__(self) : 
 		self.name = str(input("Enter Name : "))
