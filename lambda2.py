@@ -1,0 +1,2 @@
+from functool import reduce
+#.
