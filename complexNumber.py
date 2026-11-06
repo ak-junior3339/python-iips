@@ -7,7 +7,7 @@ class complex():
 			self.real = args[0]
 			self.imagnary = args[1]
 
-	def show(self):
+	def show(self): # Dunder Functions.
 		print(f"{self.real} + {self.imagnary}i")
 
 	def __add__(self,other):
