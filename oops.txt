@@ -4,4 +4,4 @@
 # 2- data encapsulation and binding
 # 3- data abstraction 
 # 4- polymorphism 
-# 5- inheritence..
+# 5- inheritence...
