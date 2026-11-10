@@ -4,7 +4,7 @@ class complex():
 			self.real = int(input("Enter the real part : "))
 			self.imagnary = int(input("Enter the imaginary part"))
 		elif len(args)==2: 
-			self.real = args[0]
+			self.real = args[0].
 			self.imagnary = args[1]
 
 	def show(self): # Dunder Functions.
