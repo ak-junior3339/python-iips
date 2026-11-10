@@ -14,3 +14,4 @@ class manager(employee) :
 		super.show()
 		print("Departmnent : {self.department}")
 
+.
