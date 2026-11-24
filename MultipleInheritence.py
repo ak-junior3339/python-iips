@@ -4,7 +4,7 @@ workshops = {
 	"Generative AI": 1000,
 	"Web Development": 750
 }
-
+#.
 class Person : 
 	def __init__(self,name,email,phone):
 		self.name = name,
