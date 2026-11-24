@@ -7,7 +7,7 @@ workshops = {
 }
 # print("Available workshops:")
 # for title, fee in workshops.items():
-# 	print(f"{title:20} ₹{fee}")
+# 	print(f"{title:20} ₹{fee}").
 
 sorted_workshops = sorted(workshops.items(),key=lambda item : item[1],reverse=True)
 for title, fee in sorted_workshops:
